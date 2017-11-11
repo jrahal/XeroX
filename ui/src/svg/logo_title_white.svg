@@ -15,7 +15,6 @@
    width="1324.4269"
    height="277.20438"
    inkscape:version="0.92.0 r15299">
-
   <metadata
      id="metadata58">
     <rdf:RDF>
@@ -28,7 +27,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -223,13 +221,10 @@
      id="flowRoot4595"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      transform="translate(130.85877,-20.648409)"><flowRegion
-       id="flowRegion4597">
-    <rect
+       id="flowRegion4597"><rect
          id="rect4599"
          width="222.6223"
          height="27.635872"
          x="482.09241"
          y="164.42006" /></flowRegion><flowPara
-       id="flowPara4601"></flowPara>
-  </flowRoot>
-</svg>
+       id="flowPara4601"></flowPara></flowRoot></svg>
