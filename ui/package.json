@@ -61,7 +61,7 @@
     "json-schema-defaults": "^0.2.0",
     "leaflet": "^1.0.3",
     "leaflet-providers": "^1.1.17",
-    "material-ui": "^0.16.1",
+    "material-ui": "^0.16.7",
     "material-ui-number-input": "^5.0.16",
     "md-color-picker": "^0.2.6",
     "mdPickers": "git://github.com/alenaksu/mdPickers.git#0.7.5",
